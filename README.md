@@ -1,8 +1,7 @@
 UniDB (MySQL, PostgreSQL, SQLite)
 =======================================
-Version:  1.0
-Author:   Samnan ur Rehman
-info:     PHP database object library with unified codebase for using MySQL, PostgreSQL and SQLite databases
+PHP database object library with unified codebase for using MySQL, PostgreSQL and SQLite databases
+
 License:  GNU GPLv3
 
 
